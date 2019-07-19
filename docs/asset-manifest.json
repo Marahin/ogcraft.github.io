@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.81d1986f.chunk.css",
-    "main.js": "/static/js/main.fe05d3fd.chunk.js",
-    "main.js.map": "/static/js/main.fe05d3fd.chunk.js.map",
+    "main.css": "/static/css/main.9db3a021.chunk.css",
+    "main.js": "/static/js/main.591b4a93.chunk.js",
+    "main.js.map": "/static/js/main.591b4a93.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.37ee7778.chunk.js": "/static/js/2.37ee7778.chunk.js",
     "static/js/2.37ee7778.chunk.js.map": "/static/js/2.37ee7778.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cf6cc2d65609de85455694dbec32a20c.js": "/precache-manifest.cf6cc2d65609de85455694dbec32a20c.js",
+    "precache-manifest.83935b68b30d2018e0601d90ec588068.js": "/precache-manifest.83935b68b30d2018e0601d90ec588068.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.81d1986f.chunk.css.map": "/static/css/main.81d1986f.chunk.css.map",
+    "static/css/main.9db3a021.chunk.css.map": "/static/css/main.9db3a021.chunk.css.map",
     "static/media/discord.png": "/static/media/discord.92bca4df.png",
     "static/media/fb.png": "/static/media/fb.c9c6d414.png",
-    "static/media/home.css": "/static/media/minecraft.4b1993d7.jpg",
+    "static/media/home.css": "/static/media/minecraft.68db90ec.jpg",
     "static/media/suit-steve.png": "/static/media/suit-steve.ba51458f.png",
     "static/media/xd.png": "/static/media/xd.591a9ad3.png"
   }

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a53077333b29121b669cdfef6b555af9",
+    "revision": "5ec0d5fbdbb4820b0477cb24626b7433",
     "url": "/index.html"
   },
   {
-    "revision": "48186f1fa72da544bbef",
-    "url": "/static/css/main.81d1986f.chunk.css"
+    "revision": "f55392ab69d35add5945",
+    "url": "/static/css/main.9db3a021.chunk.css"
   },
   {
     "revision": "48d3019fe7d9ce5b85c3",
     "url": "/static/js/2.37ee7778.chunk.js"
   },
   {
-    "revision": "48186f1fa72da544bbef",
-    "url": "/static/js/main.fe05d3fd.chunk.js"
+    "revision": "f55392ab69d35add5945",
+    "url": "/static/js/main.591b4a93.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fb.c9c6d414.png"
   },
   {
-    "revision": "4b1993d7140817c035b18474d2764787",
-    "url": "/static/media/minecraft.4b1993d7.jpg"
+    "revision": "68db90ec2eec225d9aa5d1580c9016e2",
+    "url": "/static/media/minecraft.68db90ec.jpg"
   },
   {
     "revision": "ba51458ffa4cc32a57fed750871ae94f",
