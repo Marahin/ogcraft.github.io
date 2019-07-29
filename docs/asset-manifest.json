@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.9db3a021.chunk.css",
-    "main.js": "/static/js/main.591b4a93.chunk.js",
-    "main.js.map": "/static/js/main.591b4a93.chunk.js.map",
+    "main.css": "/static/css/main.d79347a4.chunk.css",
+    "main.js": "/static/js/main.56a53bf3.chunk.js",
+    "main.js.map": "/static/js/main.56a53bf3.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.37ee7778.chunk.js": "/static/js/2.37ee7778.chunk.js",
-    "static/js/2.37ee7778.chunk.js.map": "/static/js/2.37ee7778.chunk.js.map",
+    "static/js/2.68f3c53f.chunk.js": "/static/js/2.68f3c53f.chunk.js",
+    "static/js/2.68f3c53f.chunk.js.map": "/static/js/2.68f3c53f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.83935b68b30d2018e0601d90ec588068.js": "/precache-manifest.83935b68b30d2018e0601d90ec588068.js",
+    "precache-manifest.3411e2f4b9aebff253e5ad9130ff55d1.js": "/precache-manifest.3411e2f4b9aebff253e5ad9130ff55d1.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.9db3a021.chunk.css.map": "/static/css/main.9db3a021.chunk.css.map",
+    "static/css/main.d79347a4.chunk.css.map": "/static/css/main.d79347a4.chunk.css.map",
     "static/media/discord.png": "/static/media/discord.92bca4df.png",
     "static/media/fb.png": "/static/media/fb.c9c6d414.png",
     "static/media/home.css": "/static/media/minecraft.68db90ec.jpg",
+    "static/media/roboty-budowlane-300x300.png": "/static/media/roboty-budowlane-300x300.9d209f23.png",
     "static/media/suit-steve.png": "/static/media/suit-steve.ba51458f.png",
     "static/media/xd.png": "/static/media/xd.591a9ad3.png"
   }
